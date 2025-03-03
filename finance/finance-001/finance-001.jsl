@@ -1,0 +1,82 @@
+{
+   "title":"Asset Price Dynamics, Volatility, and Prediction",
+   "edition":"first",
+   "author":[
+      {
+         "last name":"Taylor",
+         "first/middle name":"Stephen J."
+      }
+   ],
+   "year":2005,
+   "place":"Princeton, NJ",
+   "press":"Princeton University Press",
+   "ISBN-13":"978-0691134796",
+   "category":[
+      "finance",
+      "economics",
+      "econometrics",
+      "time series analysis",
+      "trading systems"
+   ],
+   "Hardcover":"https://amzn.to/4hUxyve",
+   "Paperback":"https://amzn.to/41w06W6",
+   "eTextbook":"https://amzn.to/3XFB4BN",
+   "description":"A readable introduction to financial time series with many empirical examples. Introduces stylized facts relating to asset prices, returns, and volatility. Useful to academics and traders.",
+   "image":"Asset-Price-Dynamics-Cover-600.png"
+}
+{
+   "title":"Active Portfolio Management: A Quantitative Approach for Producing Superior Returns and Controlling Risk",
+   "edition":"second",
+   "author":[
+      {
+         "last name":"Grinold",
+         "first/middle name":"Richard C."
+      },
+      {
+         "last name":"Kahn",
+         "first/middle name":"Ronald N."
+      }
+   ],
+   "year":2023,
+   "place":"New York",
+   "press":"McGraw Hill",
+   "ISBN-13":"978-1265919719",
+   "category":[
+      "finance",
+      "financial engineering",
+      "quantitative finance",
+      "investments",
+      "portfolio management"
+   ],
+   "Paperback":"https://amzn.to/40WdDVh",
+   "description":"A classic title in portfolio management.",
+   "image":"Active-Portfolio-Management-Cover-600.png"
+}
+{
+   "title":"Advances in Financial Machine Learning",
+   "edition":"first",
+   "author":[
+      {
+         "last name":"López de Prado",
+         "first/middle name":"Marcos"
+      }
+   ],
+   "year":2018,
+   "place":"New York",
+   "press":"Wiley",
+   "ISBN-13":"978-1119482086",
+   "category":[
+      "finance",
+      "econometrics",
+      "time series analysis",
+      "quantitative finance",
+      "data science",
+      "machine learning"
+
+   ],
+   "Hardcover":"https://amzn.to/3EHyGnh",
+   "Kindle":"https://amzn.to/4hDaz7Q",
+   "Audio CD":"https://amzn.to/3WWlukv",
+   "description":"A highly-regarded technical book at the intersection of quantitative finance and data science. Provides extensive discussion of machine learning and backtesting.",
+   "image":"Advances-in-Financial-Machine-Learning-Cover-600.png"
+}
