@@ -1,0 +1,142 @@
+[
+   {
+      "title":"The Elements of Statistical Learning: Data Mining, Inference, and Prediction",
+      "edition":"second",
+      "author":[
+         {
+            "last name":" Hastie",
+            "first/middle name":"Trevor"
+         },
+         {
+            "last name":"Tibshirani",
+            "first/middle name":"Robert"
+         },
+         {
+            "last name":"Friedman",
+            "first/middle name":"Jerome"
+         }  
+      ],
+      "year":2009,
+      "place":"New York",
+      "press":"Springer",
+      "ISBN-13":"978-0387848570",
+      "category":[
+         "data science",
+         "statistics",
+         "machine learning",
+         "computer-intensive statistics"
+      ],
+      "Hardcover":"https://amzn.to/4i3OjUK",
+      "Paperback":"https://amzn.to/3F5grZ4",
+      "eTextbook":"https://amzn.to/41GDz96",
+      "description":"A classic reference in data science, machine learning, and applied statistics.",
+      "image":"Elements-of-Statistical-Learning-Cover-600.png"
+   },
+   {
+      "title":"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems",
+      "edition":"third",
+      "author":[
+         {
+            "last name":"Géron",
+            "first/middle name":"Aurélien"
+         }
+      ],
+      "year":2022,
+      "place":"Sebastopol, CA",
+      "press":"O'Reilly",
+      "ISBN-13":"978-1098125974",
+      "category":[
+         "data science",
+         "statistics",
+         "machine learning",
+         "computer-intensive statistics",
+         "neural networks",
+         "Python"
+      ],
+      "Paperback":"https://amzn.to/4hnAv6F",
+      "Kindle":"https://amzn.to/4i0Qrgd",
+      "Spiral-bound":"https://amzn.to/3XquKho",
+      "description":"A comprehensive review of data science methods from traditional linear regression to neural networks. Detailed examples in Python.",
+      "image":"Hands-On-Machine-Learning-Cover-600.png"
+   },
+   {
+      "title":"Modeling Techniques in Predictive Analytics with Python and R: A Guide to Data Science",
+      "edition":"first",
+      "author":[
+         {
+            "last name":"Miller",
+            "first/middle name":"Thomas W."
+         }
+      ],
+      "year":2015,
+      "place":"Upper Saddle River, NJ",
+      "press":"Pearson Education",
+      "ISBN-13":"978-0133892062",
+      "category":[
+         "data science",
+         "statistics",
+         "machine learning",
+         "business applications",
+         "Python",
+         "R"
+      ],
+      "Hardcover":"https://amzn.to/3XrObpV",
+      "Paperback":"https://amzn.to/4ioy1Ww",
+      "Kindle":"https://amzn.to/41GB5Yk",
+      "description":"A readable introduction to methods of data science with business applications. A rare book that includes both Python and R examples, with an associated GitHub repository: https://github.com/mtpa/mtpa.",
+      "image":"Modeling-Techniques-in-Predictive-Analytics-Cover-600.png"
+   },
+   {
+      "title":"Modern Multivariate Statistical Techniques: Regression, Classification, and Manifold Learning",
+      "edition":"first",
+      "author":[
+         {
+            "last name":"Izenman",
+            "first/middle name":"Alan J."
+         }
+      ],
+      "year":2008,
+      "place":"New York",
+      "press":"Springer",
+      "ISBN-13":"978-0387781884",
+      "category":[
+         "data science",
+         "statistics",
+         "machine learning",
+         "computer-intensive statistics"
+      ],
+      "Hardcover":"https://amzn.to/41pTN53",
+      "Paperback":"https://amzn.to/3Xq4zHm",
+      "etextbook":"https://amzn.to/43n6mAS",
+      "description":"A little-known gem that covers much of the same material as 'Elements of Statistical Learning' by Hastie, Tibshirani, and Friedman (2009) but does so in a way that is more accessible to students new to data science.",
+      "image":"Modern-Multivariate-Statistical-Techniques-Cover-600.png"
+   },
+   {
+      "title":"Natural Language Processing in Action",
+      "edition":"second",
+      "author":[
+         {
+            "last name":"Lane",
+            "first/middle name":"Hobson"
+         },
+         {
+            "last name":"Dyshel",
+            "first/middle name":"Maria"
+         }
+      ],
+      "year":2025,
+      "place":"Shelter Island, NY",
+      "press":"Manning",
+      "ISBN-13":"978-1617299445",
+      "category":[
+         "data science",
+         "natural language processing",
+         "large language models",
+         "generative AI",
+         "knowledge engineering"
+      ],
+      "Paperback":"https://amzn.to/3XrawUp",
+      "description":"No data science library is complete without a solid introduction to natural language processing, as provided by this book.",
+      "image":"Natural-Language-Processing-in-Action-Cover-600.png"
+   }
+]
