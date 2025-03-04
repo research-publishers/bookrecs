@@ -1,0 +1,102 @@
+[
+   {
+      "title":"Basketball on Paper: Rules and Tools for Performance Analysis",
+      "edition":"first",
+      "author":[
+         {
+            "last name":"Oliver",
+            "first/middle name":"Dean"
+         }
+      ],
+      "year":2004,
+      "place":"Dulles, VA",
+      "press":"Potomac Books",
+      "ISBN-13":"978-1-57488-688-7",
+      "category":[
+         "sports",
+         "analytics",
+         "basketball",
+         "player performance"
+      ],
+      "Hardcover":"https://amzn.to/43ospax",
+      "Paperback":"https://amzn.to/43fdiQB",
+      "Kindle":"https://amzn.to/3F42HxW",
+      "description":"A recognized classic work on sports analytics for basketball.",
+      "image":"Basketball-Beyond-Paper-Cover-600.png"
+   },
+   {
+      "title":"Basketball Beyond Paper: Insights into the Game's Analytics Revolution",
+      "edition":"first",
+      "author":[
+         {
+            "last name":"Oliver",
+            "first/middle name":"Dean"
+         }
+      ],
+      "year":2024,
+      "place":"Lincoln, NE",
+      "press":"University of Nebraska Press",
+      "ISBN-13":"978-1496240491",
+      "category":[
+         "sports",
+         "analytics",
+         "basketball",
+         "player performance"
+      ],
+      "Paperback":"https://amzn.to/3QG1X4r",
+      "Kindle":"https://amzn.to/4boS7xt",
+      "description":"Noted expert on sports analytics for basketball updates what is known about the sport twenty years after publishing the classic 'Basketball on Paper.'",
+      "image":"Basketball-Beyond-Paper-Cover-600.png"
+   },
+   {
+      "title":"Science Meets Sports: When Statistics Are More Than Numbers",
+      "edition":"first",
+      "editor":[
+         {
+            "last name":"Ley",
+            "first/middle name":"Christophe"
+         },
+         {
+            "last name":"Dominicy",
+            "first/middle name":"Yves"
+         }
+      ],
+      "year":2020,
+      "place":"Cambridge, UK",
+      "press":"Cambridge Scholars Publishing",
+      "ISBN-13":"978-1527558564",
+      "category":[
+         "sports",
+         "sports analytics",
+         "sports science"
+      ],
+      "Hardcover":"https://amzn.to/3Xo8RPC",
+      "description":"Sports analytics and sports science for soccer and many other sports. Includes a chapter on measurement, meaning, and prediction in sports, with a focus on baseball.",
+      "image":"Science-Meets-Sports-Cover-600.png"
+   },
+   {
+      "title":"Sports Analytics and Data Science: Winning the Game with Methods and Models",
+      "edition":"first",
+      "author":[
+         {
+            "last name":"Miller",
+            "first/middle name":"Thomas W."
+         }
+      ],
+      "year":2015,
+      "place":"Princeton, NJ",
+      "press":"Princeton University Press",
+      "ISBN-13":"978-0133886436",
+      "category":[
+         "sports",
+         "sports analytics",
+         "sports management",
+         "business of sports",
+         "game-day strategy"
+      ],
+      "Hardcover":"https://amzn.to/41esyu8",
+      "Kindle":"https://amzn.to/4h6YFSq",
+      "description":"A readable introduction to sports analytics and the business of sports. An accompanying GitHub repository provides examples of sports data analyses in R and Python: https://github.com/mtpa/sads.",
+      "image":"Sports-Analytics-and-Data-Science-Cover-600.png"
+   }
+]
