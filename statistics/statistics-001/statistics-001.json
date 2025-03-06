@@ -1,0 +1,63 @@
+[
+   {
+      "title":"Forecasting: Principles and Practice",
+      "edition":"third",
+      "author":[
+         {
+            "last name":"Hyndman",
+            "first/middle name":"Rob J."
+         },
+         {
+            "last name":"Athanasopoulos",
+            "first/middle name":"George"
+         }
+      ],
+      "year":2021,
+      "place":"Independently Published",
+      "press":"Otexts",
+      "ISBN-13":"978-0987507136",
+      "category":[
+         "statistics",
+         "time series",
+         "forecasting",
+         "economics",
+         "finance",
+         "business",
+         "science"
+      ],
+      "Paperback":"https://amzn.to/4i7AxAr",
+      "description":"A accessible introduction to time series and forecasting. Applied statistics with R examples and online resources at https://otexts.com/fpp3/.",
+      "image":"Forecasting-Principles-and-Practice-Cover-600.png"
+   },
+   {
+      "title":"Time Series Models: In Econometrics, Finance and Other Fields",
+      "edition":"first",
+      "editor":[
+         {
+            "last name":"Cox",
+            "first/middle name":"David R."
+         },
+         {
+            "last name":"Hinkley",
+            "first/middle name":"David V."
+         }
+      ],
+      "year":1996,
+      "place":"Boca Raton, FL",
+      "press":"CRC Press",
+      "ISBN-13":"978-0412729300",
+      "category":[
+         "statistics",
+         "time series",
+         "econometrics",
+         "economics",
+         "finance",
+         "science"
+      ],
+      "Hardcover":"https://amzn.to/3XzLeUf",
+      "Paperback":"https://amzn.to/3Do1QYi",
+      "Kindle":"https://amzn.to/3F2gjth",
+      "description":"Edited by two renowned statisticians, David R. Cox (1924-2022) and David V. Hinkley (1944-2019), an overview of critical time series problems in economics and finance.",
+      "image":"Time-Series-Models-Cover-600.png"
+   }
+]
